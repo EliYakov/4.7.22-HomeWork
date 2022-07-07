@@ -1,30 +1,32 @@
 console.log({
-  premierLeagueTopSix: {
-    titleWinners: {
-      name: "Man City",
-      Points: 93,
+  premierLeagueTopSix: [
+    {
+      titleWinners: {
+        name: "Man City",
+        Points: 93,
+      },
+      theRunnerUp: {
+        name: "Liverpool",
+        Points: 92,
+      },
+      thirdPlace: {
+        name: "Chelsea",
+        Points: 74,
+      },
+      forthPlace: {
+        name: "Spurs",
+        Points: 71,
+      },
+      fifthPlace: {
+        name: "Arsenal",
+        Points: 69,
+      },
+      sixthPlace: {
+        name: "Man Utd",
+        Points: 58,
+      },
     },
-    theRunnerUp: {
-      name: "Liverpool",
-      Points: 92,
-    },
-    thirdPlace: {
-      name: "Chelsea",
-      Points: 74,
-    },
-    forthPlace: {
-      name: "Spurs",
-      Points: 71,
-    },
-    fifthPlace: {
-      name: "Arsenal",
-      Points: 69,
-    },
-    sixthPlace: {
-      name: "Man Utd",
-      Points: 58,
-    },
-  },
+  ],
 
   premierLeagueRelegationZone: {
     "18thPlace": {
