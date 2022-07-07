@@ -1,5 +1,5 @@
 console.log({
-  PremierLeague_TopSix: {
+  PremierLeagueTopSix: {
     TitleWinners: {
       name: "Man City",
       Points: 93,
@@ -26,7 +26,7 @@ console.log({
     },
   },
 
-  PremierLeague_RelegationZone: {
+  PremierLeagueRelegationZone: {
     "18thPlace": {
       name: "Burnley",
       Points: 35,
@@ -41,28 +41,28 @@ console.log({
     },
   },
 
-  ChampionsLeague_Qualifications: {
+  ChampionsLeagueQualifications: {
     "1stPlace": "Man City",
     "2ndPlace": "Liverpool",
     "3rdPlace": "Chelsea",
     "4thPlace": "Spurs",
   },
 
-  EuropeLeague_Qualifications: {
+  EuropeLeagueQualifications: {
     "5thPlace": "Arsenal",
     "6thPlace": "Man Utd",
   },
 
-  ConferenceLeague_Qualifications: {
+  ConferenceLeagueQualifications: {
     "7thPlace": "WestHam-Utd",
   },
 
-  QualifiedTO_PremierLeague_From_Championship: {
+  QualifiedTOPremierLeague_From_Championship: {
     FirstPlace: "Fulham",
     SecondPlace: "Bournemouth",
     ThirdPlace: {
       name: "Huddersfield town",
-      playOffGamesWinners: true,
+      PlayOffGamesWinners: true,
     },
   },
 });
